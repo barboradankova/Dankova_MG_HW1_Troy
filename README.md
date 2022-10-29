@@ -3,6 +3,9 @@ Troy is a trilogy of historical fantasy novels written by David Gemmell. After t
 
 It is a reimagining of the Trojan War period and features characters and settings from Homer's Iliad. The main characters are Helikaon (Aeneas), Andromache and Odysseus. 
 
+##TODO add another books
 1. Lord of the Silver Bow (2005)
 2. Shield of Thunder (2006)
 3. Fall of Kings (2007)
+5. XXX
+
