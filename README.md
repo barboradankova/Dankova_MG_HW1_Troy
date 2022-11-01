@@ -7,9 +7,6 @@ Gemmell's wife Stella resolved to complete the second half of the novel Troy: Fa
 
 It is a reimagining of the Trojan War period and features characters and settings from Homer's Iliad. The main characters are Helikaon (Aeneas), Andromache and Odysseus. 
 
-##TODO add another books
 1. Lord of the Silver Bow (2005)
 2. Shield of Thunder (2006)
 3. Fall of Kings (2007)
-5. XXX
-
